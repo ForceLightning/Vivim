@@ -1,0 +1,3 @@
+[submodule "causal_conv1d"]
+	path = causal_conv1d
+	url = https://github.com/Dao-AILab/causal-conv1d.git
